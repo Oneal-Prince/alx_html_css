@@ -1,0 +1,1 @@
+Building a fully functional web page  referring to Nicolas Philippot figma design of headphones using HTML/CSS/Accessibility/Responsive design.
