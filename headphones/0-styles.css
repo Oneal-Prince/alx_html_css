@@ -73,9 +73,9 @@ nav :active {
   border: none;
   color: white;
 }
-.button :hover {
+.button:hover {
   opacity: 0.9
 }
-.button :active {
+.button:active {
   opacity: 0.9
 }
