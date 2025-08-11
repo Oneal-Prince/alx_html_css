@@ -257,6 +257,27 @@ margin-bottom: 80px;
   bottom: 640px;
 
 }
+.cnt h5 {
+  text-align: center;
+  font-weight: bold;
+  font-size: xx-large;
+  padding: 100px;
+}
+.cnt button {
+   margin-top: 40px;
+  margin-bottom: 40px;
+  background-color: #FF6565;
+  border-radius: 60px;
+  padding: 20px 20px;
+  position: relative;
+  left: 600px;
+  border: none;
+  color: white;
+}
+.cnt p {
+  text-align: center;
+  margin: 20px;
+}
 
 
 
